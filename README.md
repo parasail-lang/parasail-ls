@@ -1,4 +1,4 @@
 # parasail-ls
 
-ParaSail Language Server 
+Parasail Language Server 
 - Implements the Language Server Protocol (LSP)
